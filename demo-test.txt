@@ -1,2 +1,0 @@
-this is demo text for pull and rebase practice
-
