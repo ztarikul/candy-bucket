@@ -1,0 +1,2 @@
+merge conflict 1
+merge conflict 2
