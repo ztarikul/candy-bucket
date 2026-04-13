@@ -1,3 +1,6 @@
 merge conflict 1
 merge conflict 2
-merge conflict 3
+merge conflict changed from local 3 //changedgit 
+merge conflict 4
+merge conflict 5
+merge conflict 6
